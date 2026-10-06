@@ -1,6 +1,6 @@
 <!-- Banner -->
 <h1 align="center">¡Hola! Soy Emilio Martín <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="28" /></h1>
-<p align="center">Estudiante de ASIR • Madrid, España • Curioso, autodidacta y creativo 🚀</p>
+<p align="center">Estudiante de Master de Ciberseguridad • Madrid, España • Curioso, autodidacta y creativo 🚀</p>
 
 <!-- Links rápidos -->
 <p align="center">
@@ -15,7 +15,7 @@
 ---
 
 ## 👨‍💻 Sobre mí
-- Estudiante de **Administración de Sistemas Informáticos en Red (ASIR)**.
+- Estudiante de **Ciberseguridad en Entornos de las Tecnologías de la información**.
 - Me encantan las redes, la virtualización y automatizar tareas.
 - Autodidacta: siempre con un proyecto entre manos y ganas de aprender.
 - Actualmente mejorando mis bases en **Linux**, **servicios web** y **bases de datos**.
